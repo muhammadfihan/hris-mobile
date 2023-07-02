@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "882627060246",
+    "project_id": "hrisnotification-a7d90",
+    "storage_bucket": "hrisnotification-a7d90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882627060246:android:c44973f5d6742e326f4b37",
+        "android_client_info": {
+          "package_name": "com.example.hris_apps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882627060246-rl4rq8874tpfemropc9536r7glm10hu8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaMseYRTqVs7299eLPpvlv7IO2SSgRBbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882627060246-rl4rq8874tpfemropc9536r7glm10hu8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882627060246:android:99fd9fcacf90dc866f4b37",
+        "android_client_info": {
+          "package_name": "com.hrisapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882627060246-rl4rq8874tpfemropc9536r7glm10hu8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaMseYRTqVs7299eLPpvlv7IO2SSgRBbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882627060246-rl4rq8874tpfemropc9536r7glm10hu8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
